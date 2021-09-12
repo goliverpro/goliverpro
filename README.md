@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gabriel Oliveira
  <div>
   <a href="https://github.com/goliverpro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goliverpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliverpro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goliverpro&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliverpro&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div>
  <h3>Capacidade de cumprir prazos e executar trabalhos em curto tempo e com qualidade, criativo, facilidade no trabalho em equipe, aptidão para resolução de conflitos e rápido aprendizado. 
