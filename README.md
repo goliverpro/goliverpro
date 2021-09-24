@@ -5,25 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goliverpro&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div>
- <h3>Capacidade de cumprir prazos e executar trabalhos em curto tempo e com qualidade, criativo, facilidade no trabalho em equipe, aptidão para resolução de conflitos e rápido aprendizado. 
-Possuo facilidade com as seguintes linguagens;
- * Java
- * JavaScript
- * C
- * Mysql
- * Postgres
- Ferramentas: 
-  * SpringBoot
-  * React
-  * JPA
-  * ORM
-  * Express
-  * Knex
-  * Spring Security
-  * JWT.
- Versionadores de código: 
-  * Github 
-  * Bitbucket</h3>
+
  </div>
 <div> 
   <a href = "mailto:gosilva.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
